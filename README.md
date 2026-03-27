@@ -1,5 +1,5 @@
 ## Hi there! this my new project
-**Welcome to the Starbuck App Deployment project! This project demonstrates how to deploy a StarBucks Clone Next.js application on Kubernetes cluster using modern DevOps tools, practices and following a DevSecOps approach.**
+**Welcome to the Amazon_Prime_video App Deployment project! This project demonstrates how to deploy a Amazon_Prime_video Clone Next.js application on Kubernetes cluster using modern DevOps tools, practices and following a DevSecOps approach.**
 
 ## 🛠️ **Tools & Services Used**
 
